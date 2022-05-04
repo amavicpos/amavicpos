@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amavicpos
-- 👀 I’m interested in programming and astronomy
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
